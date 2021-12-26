@@ -231,7 +231,7 @@
 				};
 			};
 			buildConfigurationList = 5FFA055F22C48D0F009057CC /* Build configuration list for PBXProject "Currency-SwiftUI" */;
-			compatibilityVersion = "Xcode 7.2";
+			compatibilityVersion = "Xcode 7.2.1";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
